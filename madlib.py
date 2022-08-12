@@ -7,5 +7,6 @@ def read_template():
 def parse_template():
     return False
 
+
 def merge():
     return"hello"
